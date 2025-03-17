@@ -1,0 +1,7 @@
+{
+  "queryStringParameters": {
+    "fileName": "test-upload.txt"
+  },
+  "body": "VGhpcyBpcyBhIHRlc3QgdXBsb2FkIGZpbGUgY29udGVudC4=",
+  "isBase64Encoded": true
+}
